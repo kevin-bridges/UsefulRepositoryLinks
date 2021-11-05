@@ -14,3 +14,8 @@ https://github.com/StephenGrider/WebpackCasts
 ### NodeJS Hackathon-starter
 https://github.com/sahat/hackathon-starter
 
+### RealWorld
+About
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 
+https://github.com/gothinkster/realworld
+
